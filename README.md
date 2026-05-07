@@ -1,6 +1,6 @@
 # Wine Quality Modelling — CSCI323 Group Project
 
-**University of Wollongong | CSCI323 Modern Artificial Intelligence | Session 4 2025**
+**University of Wollongong | CSCI323 Modern Artificial Intelligence 
 
 ---
 
